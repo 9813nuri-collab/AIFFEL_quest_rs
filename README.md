@@ -8,24 +8,31 @@
 
 ## 📂 레포 구조
 ```bash
-AIFFEL_quest_cr
+AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
 │   │   ├── Quest01.ipynb
 │   │   └── README.md
-│   └── ... (Quest08까지 동일 구조)
-├── Python
-│   ├── Quest01
-│   │   ├── .ipynb
+│   .   .
+│   .   .
+│   └── Quest05
+│       ├── Quest05.ipynb
+│       └── README.md
+├── Exploration
+│   ├── Ex01
+│   │   ├── Ex01.ipynb
 │   │   └── README.md
-│   └── ...
-├── Flutter
-│   ├── Quest01
-│   │   ├── .ipynb
-│   │   └── README.md
-│   └── ...
-└── Exploration
-    ├── Ex01
-    │   ├── Ex01.ipynb
+│   .   .
+│   .   .
+│   └── Ex08
+│       ├── Ex08.ipynb
+│       └── README.md
+└── GoingDeeper
+    ├── Gd01
+    │   ├── Gd01.ipynb
     │   └── README.md
-    └── ... (Ex07까지 동일 구조)
+    .   .
+    .   .
+    └── Gd09
+        ├── Gd09.ipynb
+        └── README.md
