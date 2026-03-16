@@ -1,4 +1,4 @@
-# AIFFEL_quest_cr
+# AIFFEL_quest_rs
 
 아이펠 리서처 과정 중 진행하는 프로젝트를 관리하는 저장소입니다.
 
